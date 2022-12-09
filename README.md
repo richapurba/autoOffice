@@ -23,10 +23,8 @@
 <br>
 <br>
 
-
-
-
 A brief description of what this project does and who it's for
+Brought to you by me, [Richa Purba](https://www.github.com/richapurba).
 
 
 ## Features
@@ -57,6 +55,12 @@ avoid Pinocchio 🤥 jobseeker?
 ## Lessons Learned
 
 What did you learn while building this project? What challenges did you face and how did you overcome them?
+
+
+
+<a href="#">
+  <img align="right" src="https://media.giphy.com/media/XBKgBeVjgDCJ87k4LY/giphy.gif" width=200>
+</a>
 
 
 ## Roadmap
@@ -143,7 +147,7 @@ To run this project, you will need to add the following environment variables to
 
  - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
  - [Awesome README](https://github.com/matiassingers/awesome-readme)
- - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+ - [This Is How To Spot A Lie On A Resume](https://www.fastcompany.com/40461218/this-is-how-spot-a-lie-on-a-resume)
 
 
 ## Feedback
@@ -154,30 +158,6 @@ If you have any feedback, please reach out to me at [richaulivia@gmail.com](mail
 ## Appendix
 
 Any additional information goes here
-
-
-## Authors
-
-- [@richapurba](https://www.github.com/richapurba)
-
-
-
-
-
-
-
-<a href="#">
-  <img src="https://media.giphy.com/media/XBKgBeVjgDCJ87k4LY/giphy.gif" width=200>
-</a>
-
-
-### Personality in your resume 🥸
-
-Wasn't it the dream of every recruiter to avoid Pinocchio 🤥 jobseeker?
-
-<a href="#">
-  <img src="https://media.giphy.com/media/Gty6GOHlBnxQAKs8Ha/giphy.gif" width=200>
-</a>
 
 
 
@@ -193,6 +173,7 @@ Wasn't it the dream of every recruiter to avoid Pinocchio 🤥 jobseeker?
 Congratulation! You've made this far reading this ridiculous statement. To celebrate, let's slow down for a minute to `thank God` for His mercy so you're able to made this far. Just say this within your heart.
 
 `Thanks a lot, Lord. I don't know what I would be without You..`
+
 
 ---
 
