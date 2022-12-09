@@ -5,7 +5,7 @@
 # autoOffice | Personal Resume Analyzer
 `A solution for both jobseeker and HR`
 
-[![Website](https://img.shields.io/website?label=preview-project&style=for-the-badge&url=https%3A%2F%2Frichapurba.github.io)](https://richapurba.github.io)
+[![Website](https://img.shields.io/website?label=live-demo&style=for-the-badge&url=https%3A%2F%2Frichapurba.github.io)](https://richapurba.github.io)
 
 
 <div>
@@ -35,6 +35,10 @@ Wasn't it the dream of every recruiter to avoid Pinocchio 🤥 jobseeker?
 <a href="#">
   <img src="https://media.giphy.com/media/Gty6GOHlBnxQAKs8Ha/giphy.gif" width=200>
 </a>
+
+
+
+
 
 
 
