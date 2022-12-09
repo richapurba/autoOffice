@@ -155,20 +155,6 @@ To run this project, you will need to add the following environment variables to
 If you have any feedback, please reach out to me at [richaulivia@gmail.com](mailto:richaulivia@gmail.com)
 
 
-## Appendix
-
-Any additional information goes here
-
-
-
-
-
-
-
-
-
-
-
 ### Quick Tip 💡:
 Congratulation! You've made this far reading this ridiculous statement. To celebrate, let's slow down for a minute to `thank God` for His mercy so you're able to made this far. Just say this within your heart.
 
@@ -177,6 +163,6 @@ Congratulation! You've made this far reading this ridiculous statement. To celeb
 
 ---
 
-<div id="footer" align="right">
-    <img src="https://media.giphy.com/media/3o6ZsXikiLlqSYu77y/giphy.gif" width="200"/>
+<div id="footer" align="center">
+    <img align="center" src="https://media.giphy.com/media/3o6ZsXikiLlqSYu77y/giphy.gif" width="200"/>
 </div>
