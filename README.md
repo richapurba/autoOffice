@@ -152,7 +152,7 @@ To run this project, you will need to add the following environment variables to
 
 ## Feedback
 
-If you have any feedback, please reach out to me at [richaulivia@gmail.com](mailto:richaulivia@gmail.com)
+If you have any feedback, please reach out to [me](mailto:richaulivia@gmail.com).
 
 
 ### Quick Tip 💡:
