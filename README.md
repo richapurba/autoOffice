@@ -164,5 +164,5 @@ Congratulation! You've made this far reading this ridiculous statement. To celeb
 ---
 
 <div id="footer" align="center">
-    <img align="center" src="https://media.giphy.com/media/3o6ZsXikiLlqSYu77y/giphy.gif" width="200"/>
+    <img align="center" src="https://media.giphy.com/media/3o6ZsXikiLlqSYu77y/giphy.gif" width="400"/>
 </div>
