@@ -150,6 +150,15 @@ To run this project, you will need to add the following environment variables to
  - [This Is How To Spot A Lie On A Resume](https://www.fastcompany.com/40461218/this-is-how-spot-a-lie-on-a-resume)
 
 
+## Contributing
+
+Contributions are always welcome!
+
+See `contributing.md` for ways to get started.
+
+Please adhere to this project's `code of conduct`.
+
+
 ## Feedback
 
 If you have any feedback, please reach out to [me](mailto:richaulivia@gmail.com).
