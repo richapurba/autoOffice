@@ -23,6 +23,8 @@
 <br>
 <br>
 
+
+A magical tool that allows you to gather insights from your resume in seconds, and able to save a lot of time when applying jobs. Stop wasting your time applying for jobs from one job portal to another one, because now you can do it in just one click.
 A brief description of what this project does and who it's for
 Brought to you by me, [Richa Purba](https://www.github.com/richapurba).
 
