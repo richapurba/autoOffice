@@ -5,7 +5,8 @@
 # autoOffice | Personal Resume Analyzer
 `A solution for both jobseeker and HR`
 
-[![Website](https://img.shields.io/website?label=live-demo&style=for-the-badge&url=https%3A%2F%2Frichapurba.github.io)](https://richapurba.github.io)
+
+[![Website](https://img.shields.io/website?label=richapurba.github.io&style=for-the-badge&url=https%3A%2F%2Frichapurba.github.io)](https://richapurba.github.io)
 
 
 <div>
